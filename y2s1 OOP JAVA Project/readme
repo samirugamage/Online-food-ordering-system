@@ -1,0 +1,6 @@
+import the project using eclipse IDE
+run the apache server
+run the index.jsp file as (run as run on server) to execute the home page.
+import the database files to mysql-workbench software set the password as 'root' and the username as 'root'.
+
+
